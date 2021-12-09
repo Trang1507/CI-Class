@@ -1,4 +1,4 @@
-import { Register } from "./index_register.js"
+import { Register } from "./index2_register.js"
 
 const app = document.getElementById('app');
 const register = new Register();
